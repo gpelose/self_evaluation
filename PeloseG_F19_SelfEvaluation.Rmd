@@ -1,7 +1,7 @@
 ---
 title: "AN597: End-of-Semester Self Evaluation"
 author: "Greg Pelose"
-date: "12/10/2019"
+date: "12/16/2019"
 output: 
   rmarkdown::html_document:
     theme: cosmo
@@ -19,12 +19,14 @@ output:
 
 <center>
 
-<font size="+2"><b>Sashay... Away.</b></font></center><br>
+<font size="+2"><b>I finally can do it!</b></font></center><br>
 
-<center><p><img src="https://media.giphy.com/media/RPdLHpiOnL2pO/giphy.gif" style="border:5px solid black"></p>
+<center><p><img src="https://media.giphy.com/media/3ohzAgzqgR8kUYien6/giphy.gif" style="border:5px solid black"></p>
 </center><br>  
 
 <center>
+I am not very flexible and can barely touch my toes due to having weird hip bones, this giff looks like the guy is able to touch his head with his leg and that is how I feel about the result of this course. I came in with essentially no coding experience, I thought I had some but after getting a week into the class I realized that it was very minimal and I felt scared that I couldnt get anywhere in the process, kind of like my tight hamstrings haha. I have completely overcome that fear due to this course and feel like I understand how to code and it is a very satifying feeling, similar to the feeling I would have if I could reach my hamstrings. 
+
 The following self evaluation is meant to guide you through a reflection on what you put into this course, and also what you got out of it in return. Your self evaluation is *not* the place to criticize, evaluate, or thank the instructor (we already had a good conversation about that, and formal evaluations, on the last day of class). This is about *you*. Unless otherwise noted, please answer each question in no more than *eight* sentences. At the end, I ask you to assign yourself a grade that you think is both a fair and honest reflection of your performance in the class given what was asked of you.
 
 </center>
