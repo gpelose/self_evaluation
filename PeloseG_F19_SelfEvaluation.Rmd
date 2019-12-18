@@ -42,7 +42,7 @@ Please download this Markdown file (`selfevaluation.Rmd`) from my GitHub site (i
 
 ***
 
-In place of my name as author on this Markdown file, please insert your own, along with the date on which you completed this self-assessment. In place of the RuPaul GIF, above, please choose a GIF of a drag queen that best exemplifies your overall feelings about what you learned/accomplished in this course. Additionally, replace the `The following self evaluation...` text below your GIF with a three sentence summary of your experience in the class and what you take away from it to accompany that GIF. You may also choose a catchy title.
+My overall impression of the course was that it was quite challenging but in a good way. I really wanted to step out of my box this semester and try some new types of classes and this was one of them, I found to truly enjoy the result. My highlight was realizing that I can now make what ever graph that I want! 
 
 ***
 
@@ -78,7 +78,7 @@ In place of my name as author on this Markdown file, please insert your own, alo
 
 ***
 
-Please let me know how many of the above tasks you accomplished. If any of them were accomplished later than stipulated, please note that. If you contacted me about them being late (and we discussed it and I said it was ok), please note that, too. You may provide a bulleted/numbered list matching the one above.<br><br><br><br><br><br>
+<br><br><br><br>
 
 I accomplished all of the tasts that you assigned. I unfortunatley handed in the second homework assingments quite late but we had discussed this in person due to Clint and I having one of our coaches pass away. Thank you so much for being so understnading about that. 
 
@@ -88,7 +88,7 @@ I accomplished all of the tasts that you assigned. I unfortunatley handed in the
 
 ***
 
-Please let me know how well you feel you accomplished your tasks, in a general sense. What do you feel you did the best, and what did you do the least well? What was the hardest part for you? Did your work/understanding/ease improve over the course of the semester?<br><br><br><br><br><br>
+<br><br><br><br>
 
 I feel that I accomplished them to the best of my ability. I definitely struggled with parts of different homework assignments and looking back through the assingments just now I realized how much time I put into each of these assingments. I also realized that I could fix some of the problems that took me a very long time to figure out back then in seconds now so I think that is very good thing. I feel I did best in really focusing and getting past the hump of learning how to code in the beginning. I thenfound myself getting stuck on small things and getting past those was what I did least well in. The hardest part for me was trying to create the function. As stated earlier my ease and understanding most definitely improved throughout the course. 
 
@@ -98,9 +98,9 @@ I feel that I accomplished them to the best of my ability. I definitely struggle
 
 ***
 
-This may be in relation to previous knowledge, or in relation to future/planned work.<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
-1000000%, I did not really have an amazing approach to statistics and or project design at all in the beginning. I took stats mt freshman year and refreshed myself on some of the subject before we started this class but I learned a lot about statistics and am very happy with how much I learned about project design as well. 
+1000000% better, I did not really have an amazing approach to statistics and or project design at all in the beginning. I took stats mt freshman year and refreshed myself on some of the subject before we started this class but I learned a lot about statistics and am very happy with how much I learned about project design as well. 
 
 
 ***
@@ -109,7 +109,7 @@ This may be in relation to previous knowledge, or in relation to future/planned 
 
 ***
 
-Please name at least three things you feel you learned in this course.<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 I learned to not be as scared in the beginning to get into something. I felt a huge road block in from of me when I first started coding in this course. I found the simpliest things to be so comfusing, I now feel that I have a solid understanding of how to use R. I also learned how to use github. Finally I learned how to run many types of statistics in R as well. I am excited to try and use these in my own future research.  
 
@@ -122,7 +122,7 @@ The peer commentary was very helpful at times and helped towards my success as I
 The group project was amazing, I learned so much from lara and brenna. I was lucky to be partners with them becasue they were a lot of fun to work with and taught me a lot as well. So I would say that both the peer commentary and group project were a huge success for me. 
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 ***
 
@@ -131,8 +131,7 @@ The group project was amazing, I learned so much from lara and brenna. I was luc
 ***
 The main thing that I would have done differently is chill out at the beginning of the course because I was very nervouse that I was not going to get past the hump of learning how to code and here I am now!!!!! 
 
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 ***
 
@@ -140,10 +139,10 @@ The main thing that I would have done differently is chill out at the beginning 
 
 ***
 
-I would give myself an A, I felt that I have learned a huge amount from this course from where I started and I worked really hard to get here. 
+I would give myself an A, I felt that I have learned a huge amount from this course considering I started essentailly from scratch. I also worked really hard to get here as well. 
 
 
-<br><center>[insert letter grade here]</center><br>
+<br><center>[A]</center><br>
 
 ***
 
